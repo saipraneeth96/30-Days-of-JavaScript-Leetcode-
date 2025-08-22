@@ -14,3 +14,4 @@ Day 2:
 --The parent function is createCounter(n). It creates a variable called currentCount.
 --It returns a new, inner function.
 --This inner function closes over the currentCount variable. It maintains a private, persistent reference to it.
+--The output depends on the number of times createCounter() is called.
