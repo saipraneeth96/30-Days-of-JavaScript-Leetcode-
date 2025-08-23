@@ -15,3 +15,12 @@ Day 2:
 --It returns a new, inner function.
 --This inner function closes over the currentCount variable. It maintains a private, persistent reference to it.
 --The output depends on the number of times createCounter() is called.
+
+DAY 3:
+
+--The expect Function
+You start by calling expect() with a value you want to test. For example, expect(5).
+This function doesn't do the test itself. Instead, it gives you back an object with two special tools (functions) inside it: toBe and notToBe.
+
+--The toBe Tool: To check if two values are exactly the same.
+--The notToBe Tool: To check if two values are different.
