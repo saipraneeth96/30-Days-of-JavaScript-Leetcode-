@@ -21,6 +21,12 @@ DAY 3:
 --The expect Function
 You start by calling expect() with a value you want to test. For example, expect(5).
 This function doesn't do the test itself. Instead, it gives you back an object with two special tools (functions) inside it: toBe and notToBe.
-
 --The toBe Tool: To check if two values are exactly the same.
 --The notToBe Tool: To check if two values are different.
+
+
+DAY 4:
+--obj1 is an object that will be returned by the parent function
+--obj1 has 3 functions that will return a value each time they are called.
+--objects in javascript are stored in {key : value} paris.
+--The function name serves as the Key, and the function itself is the value of that object.
