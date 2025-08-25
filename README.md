@@ -30,3 +30,9 @@ DAY 4:
 --obj1 has 3 functions that will return a value each time they are called.
 --objects in javascript are stored in {key : value} paris.
 --The function name serves as the Key, and the function itself is the value of that object.
+
+
+DAY 5:
+--the new array to be returned is 'a'.
+--for each index 'i' in array 'arr', push arr[i] into 'fn' at index 'i'.
+--Return the new array 'a'.
