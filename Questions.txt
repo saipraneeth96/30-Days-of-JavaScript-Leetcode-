@@ -173,3 +173,18 @@ Input: functions = [], x = 42
 Output: 42
 Explanation:
 The composition of zero functions is the identity function
+
+
+Day 9:
+2703. Return Length of Arguments Passed
+
+PROBLEM STATEMENT: Write a function argumentsLength that returns the count of arguments passed to it.
+ 
+Example 1:
+
+Input: args = [5]
+Output: 1
+Explanation:
+argumentsLength(5); // 1
+
+One value was passed to the function so it should return 1.
