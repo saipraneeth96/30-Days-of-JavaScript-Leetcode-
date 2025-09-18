@@ -1081,6 +1081,7 @@ const obj2 = new ArrayWrapper([]);
 obj1 + obj2; // 0
  
 DAY 30:
+2726. Calculator with Method Chaining
 
 PROBLEM STATEMENT:
 --Design a Calculator class.
